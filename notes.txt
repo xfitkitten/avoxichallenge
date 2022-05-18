@@ -1,0 +1,11 @@
+Error handling - https://medium.com/swlh/error-handling-in-javascript-a-quick-guide-54b954427e47
+
+Create Simplest Express app  - https://expressjs.com/en/starter/hello-world.html
+
+Started with this - https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/
+
+How to use the includes method - https://codezup.com/10-ways-to-check-if-value-exists-in-array-javascript/
+
+if/else statement - https://www.w3schools.com/jsref/jsref_if.asp
+
+downloads of ip country info - https://www.maxmind.com/en/accounts/719340/geoip/downloads

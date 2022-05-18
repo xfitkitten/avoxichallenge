@@ -18,6 +18,10 @@ const getIp = async (ip) => {
 
     const res = await curly(body);
 
+    if (res.statusCode !== 200) {
+        throw new Error(res.body);
+    }
+
     return { ...res, ip };
 }
 
